@@ -1,4 +1,4 @@
-# [Alura](https://cursos.alura.com.br/formacao-html-e-css)
+# [Curso Alura - HTML e CSS](https://cursos.alura.com.br/formacao-html-e-css)
 ## [Veja o site pronto aqui](https://patyfil.github.io/CursoAluraHTMLeCSS/)
 ## Cursos de HTML5 e CSS3
 <p> Parte 1 - A primeira página da Web;</p>
