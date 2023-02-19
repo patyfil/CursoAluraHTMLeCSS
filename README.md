@@ -1,4 +1,5 @@
 # [Curso Alura - HTML e CSS](https://cursos.alura.com.br/formacao-html-e-css)
+## Barbearia Alura  
 ## [Visualize o Projeto](https://patyfil.github.io/CursoAluraHTMLeCSS/)
 
 ## Cursos de HTML5 e CSS3
